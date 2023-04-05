@@ -1,0 +1,28 @@
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.exe
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.deps.json
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.runtimeconfig.json
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.runtimeconfig.dev.json
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.dll
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.pdb
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.csproj.AssemblyReference.cache
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.AssemblyInfoInputs.cache
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.AssemblyInfo.cs
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.csproj.CoreCompileInputs.cache
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.dll
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.pdb
+C:\Users\rpmb\source\repos\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.genruntimeconfig.cache
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.exe
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.deps.json
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.runtimeconfig.json
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.runtimeconfig.dev.json
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.dll
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\bin\Debug\netcoreapp3.1\CountProg_for_Wokoto.pdb
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.csproj.AssemblyReference.cache
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.AssemblyInfoInputs.cache
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.AssemblyInfo.cs
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.csproj.CoreCompileInputs.cache
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.dll
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.pdb
+C:\Users\rpmb\OneDrive - 筑波大学\国語研\ヲコト点DB\プログラム\CountProg_for_Wokoto\CountProg_for_Wokoto\obj\Debug\netcoreapp3.1\CountProg_for_Wokoto.genruntimeconfig.cache
